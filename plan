@@ -1,0 +1,31 @@
+       THIS IS MY NAME
+OLUWANIFEMI OLUWAGBEMILA
+THIS FILE WAS CREATED TODAY DURING GIT REVIEW
+
+
+
+WE ARE TRYING TO LEARN DIFFERENT COMMANDS AND THEIR USES
+EXAMPLE
+
+To create a file "touch [FileName]"
+To create a folder "mkdir [FolderName]"
+
+To check the content of a folder/direcctory "ls"
+To check the content of a file  "cat [FileName]"
+
+To get into a folder/directory "cd [folderName]
+To get into a file "vim [fileName]"
+
+
+To create a user "useradd -m [UserName]"
+To delete/remove a user "userdel [UserName]"
+
+
+To delete a file "rm [FileName]"
+To delete a folder/directory "rm -r [FolderName]"
+
+To install docker "sudo apt install docker"
+To install git  "sudo apt install git"
+To install apache2 "sudo apt install apache2"
+
+
