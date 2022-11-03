@@ -29,3 +29,5 @@ To install git  "sudo apt install git"
 To install apache2 "sudo apt install apache2"
 
 
+To redirect an output into a file " > [FileName]"
+To append an output into a file ">> [FileName]"
