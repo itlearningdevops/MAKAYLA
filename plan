@@ -35,3 +35,13 @@ To append an output into a file ">> [FileName]"
 
 To copy a file "cp [FileName]
 To rename a file "mv [FileName]
+
+TO make the machine sleep for some times "sleep"
+TO change the permission of a file "chmod ### [fileName]"
+To Change the owner of a fie [chown newowner [FileName]"
+
+
+To check the status of a package/deamon "systemctl status [packageName]"
+To restart a package "systemctl restart [packageName]"
+To stop a package "systemctl stop [package]"
+
